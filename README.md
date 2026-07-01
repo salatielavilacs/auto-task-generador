@@ -46,7 +46,7 @@ El proyecto está organizado en un monorrepositorio estructurado de la siguiente
 ## 🔗 Demo en Vivo
 
 Puedes probar la aplicación desplegada en producción a través del siguiente enlace:
-👉 **[auto-task-generador.vercel.app]([https://auto-task-generador.vercel.app/])**
+👉 **[auto-task-generador.vercel.app](https://auto-task-generador.vercel.app/)**
 
 *(Nota: Al tratarse de una demo en el plan gratuito de Render, el backend puede demorar unos 50 segundos en responder en la primera petición si el servidor se encuentra inactivo).*
 
