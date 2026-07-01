@@ -1,0 +1,18 @@
+# Next.js
+auto-task-frontend/.next/
+auto-task-frontend/node_modules/
+
+# Python
+**/__pycache__/
+*.pyc
+auto-task-backend/venv/
+node_modules/
+# Archivos de salida locales
+*.docx
+*.xlsx
+*.pptx
+temp_*
+
+# Entornos y secretos
+.env
+.env.local
