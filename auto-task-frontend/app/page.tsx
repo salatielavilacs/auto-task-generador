@@ -297,7 +297,7 @@ export default function Home() {
                 value={apiKey}
                 onChange={e => setApiKey(e.target.value)}
                 className="w-full bg-[#0d1117] border border-[#30363d] rounded p-2 pr-10 text-sm focus:outline-none focus:border-blue-500 text-gray-200"
-                placeholder="AIzaSy..."
+                placeholder="AQ.A7zaSy..."
               />
               <button
                 type="button"
